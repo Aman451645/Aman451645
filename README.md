@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aman451645
-- 👀 I’m interested in robotics engineering 
-- 🌱 I’m currently learning robotics from CDAC kolkata
-- 💞️ I’m looking to collaborate on any robotics project 
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Data science 
+- 💞️ I’m looking to collaborate on any Data project 
 - 📫 How to reach me - whats app no 7771887918
 
 <!---
