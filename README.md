@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Aman451645
+- A passionate Data Science Enthusiast
+- 👋 Hi, I’m Aman Sahu 
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Data science 
+- 🌱 I’m currently Working as a Data Science Intern 
+-    I'm learning AI and ML 
 - 💞️ I’m looking to collaborate on any Data science project 
 - 📫 How to reach me - whats app no 7771887918
 - Email: amansahu4516@gmail.com
