@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Aman451645
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Data science 
-- 💞️ I’m looking to collaborate on any Data project 
+- 💞️ I’m looking to collaborate on any Data science project 
 - 📫 How to reach me - whats app no 7771887918
+- Email: amansahu4516@gmail.com
 
 <!---
 Aman451645/Aman451645 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
